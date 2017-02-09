@@ -1,7 +1,6 @@
 /*
 Name: Rianka Philip
-This project is about two different colored pineapples, 
-one moving across the screen and one controlled by the mouse. 
+This project is about pineapples moving around the screen.  
 */
 int x=200;
 int y=700;
